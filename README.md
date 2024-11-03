@@ -38,9 +38,4 @@ The dataset used is the Titanic dataset from [Kaggle](https://www.kaggle.com/c/t
 
 ---
 
-## Installation 🛠️
-Clone this repository and install the necessary packages.
-```bash
-git clone https://github.com/yourusername/titanic-deep-learning.git
-cd titanic-deep-learning
-pip install -r requirements.txt
+
