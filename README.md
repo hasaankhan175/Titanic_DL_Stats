@@ -12,18 +12,6 @@ This project explores the Titanic dataset using **statistical analysis** and **d
 
 ---
 
-## Table of Contents 📋
-- [Project Overview](#project-overview)
-- [Dataset Information](#dataset-information)
-- [Installation](#installation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
-- [Statistical Analysis](#statistical-analysis)
-- [Deep Learning Model](#deep-learning-model)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
----
 
 ## Dataset Information 📊
 The dataset used is the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic). Key columns include:
